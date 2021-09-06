@@ -200,6 +200,27 @@ console.log( v );
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/stats/base/dnanmskrange`][@stdlib/stats/base/dnanmskrange]: calculate the range of a double-precision floating-point strided array according to a mask, ignoring NaN values.
+-   [`@stdlib/stats/base/nanmskrange`][@stdlib/stats/base/nanmskrange]: calculate the range of a strided array according to a mask, ignoring NaN values.
+-   [`@stdlib/stats/base/smskrange`][@stdlib/stats/base/smskrange]: calculate the range of a single-precision floating-point strided array according to a mask.
+-   [`@stdlib/stats/base/snanrange`][@stdlib/stats/base/snanrange]: calculate the range of a single-precision floating-point strided array, ignoring NaN values.
+-   [`@stdlib/stats/base/snanmskmax`][@stdlib/stats/base/snanmskmax]: calculate the maximum value of a single-precision floating-point strided array according to a mask, ignoring NaN values.
+-   [`@stdlib/stats/base/snanmskmin`][@stdlib/stats/base/snanmskmin]: calculate the minimum value of a single-precision floating-point strided array according to a mask, ignoring NaN values.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -262,6 +283,22 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [@stdlib/array/uint8]: https://github.com/stdlib-js/array-uint8
 
 [mdn-typed-array]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray
+
+<!-- <related-links> -->
+
+[@stdlib/stats/base/dnanmskrange]: https://github.com/stdlib-js/stats-base-dnanmskrange
+
+[@stdlib/stats/base/nanmskrange]: https://github.com/stdlib-js/stats-base-nanmskrange
+
+[@stdlib/stats/base/smskrange]: https://github.com/stdlib-js/stats-base-smskrange
+
+[@stdlib/stats/base/snanrange]: https://github.com/stdlib-js/stats-base-snanrange
+
+[@stdlib/stats/base/snanmskmax]: https://github.com/stdlib-js/stats-base-snanmskmax
+
+[@stdlib/stats/base/snanmskmin]: https://github.com/stdlib-js/stats-base-snanmskmin
+
+<!-- </related-links> -->
 
 </section>
 
