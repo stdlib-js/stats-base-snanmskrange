@@ -231,7 +231,7 @@ console.log( v );
 
 -   <span class="package-name">[`@stdlib/stats-base/dnanmskrange`][@stdlib/stats/base/dnanmskrange]</span><span class="delimiter">: </span><span class="description">calculate the range of a double-precision floating-point strided array according to a mask, ignoring NaN values.</span>
 -   <span class="package-name">[`@stdlib/stats-base/nanmskrange`][@stdlib/stats/base/nanmskrange]</span><span class="delimiter">: </span><span class="description">calculate the range of a strided array according to a mask, ignoring NaN values.</span>
--   <span class="package-name">[`@stdlib/stats-base/smskrange`][@stdlib/stats/base/smskrange]</span><span class="delimiter">: </span><span class="description">calculate the range of a single-precision floating-point strided array according to a mask.</span>
+-   <span class="package-name">[`@stdlib/stats-strided/smskrange`][@stdlib/stats/strided/smskrange]</span><span class="delimiter">: </span><span class="description">calculate the range of a single-precision floating-point strided array according to a mask.</span>
 -   <span class="package-name">[`@stdlib/stats-base/snanrange`][@stdlib/stats/base/snanrange]</span><span class="delimiter">: </span><span class="description">calculate the range of a single-precision floating-point strided array, ignoring NaN values.</span>
 -   <span class="package-name">[`@stdlib/stats-base/snanmskmax`][@stdlib/stats/base/snanmskmax]</span><span class="delimiter">: </span><span class="description">calculate the maximum value of a single-precision floating-point strided array according to a mask, ignoring NaN values.</span>
 -   <span class="package-name">[`@stdlib/stats-base/snanmskmin`][@stdlib/stats/base/snanmskmin]</span><span class="delimiter">: </span><span class="description">calculate the minimum value of a single-precision floating-point strided array according to a mask, ignoring NaN values.</span>
@@ -266,7 +266,7 @@ See [LICENSE][stdlib-license].
 
 ## Copyright
 
-Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
+Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 </section>
 
@@ -326,7 +326,7 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 
 [@stdlib/stats/base/nanmskrange]: https://github.com/stdlib-js/stats-base-nanmskrange
 
-[@stdlib/stats/base/smskrange]: https://github.com/stdlib-js/stats-base-smskrange
+[@stdlib/stats/strided/smskrange]: https://github.com/stdlib-js/stats-strided-smskrange
 
 [@stdlib/stats/base/snanrange]: https://github.com/stdlib-js/stats-base-snanrange
 
