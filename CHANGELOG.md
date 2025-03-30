@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`36e1bc3`](https://github.com/stdlib-js/stdlib/commit/36e1bc38710d07b84bf38c11cedaec4748b7faeb) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`44946bd`](https://github.com/stdlib-js/stdlib/commit/44946bdd7847e0302e2c625d14e6fe61844481c9) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`9e689ff`](https://github.com/stdlib-js/stdlib/commit/9e689ffcb7c6223afc521f1e574b42f10921cf5e) - **chore:** fix indentation in manifest.json files _(by Philipp Burckhardt)_
