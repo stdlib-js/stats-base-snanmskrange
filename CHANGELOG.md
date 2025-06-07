@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`81d17b1`](https://github.com/stdlib-js/stdlib/commit/81d17b1bba3c9f51cf9d6c9fc0103a6480dd1e5b) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`c10df04`](https://github.com/stdlib-js/stdlib/commit/c10df047e12919f5abf97e075ba31a2f9b98cf84) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`3e1f4b3`](https://github.com/stdlib-js/stdlib/commit/3e1f4b3c07937a861b7272f01362b23825a20a6d) - **feat:** add C ndarray interface and refactor implementation for `stats/base/snanmskrange` [(#7238)](https://github.com/stdlib-js/stdlib/pull/7238) _(by Gururaj Gurram, Athan Reines)_
 -   [`2db7567`](https://github.com/stdlib-js/stdlib/commit/2db75670d43471c0f502e46d2564582add3d6135) - **refactor:** update paths _(by Gururaj Gurram)_
